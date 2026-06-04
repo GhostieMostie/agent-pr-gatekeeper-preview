@@ -39,11 +39,15 @@ Gatekeeper response:
 
 ## Paid Kit
 
-The full kit includes a no-dependency report generator, maintainer comment generator, bounty claim safety gate, agent disclosure policy, CI classification request, review readiness report, and five-minute PR gate workflow.
+The full kit includes a no-dependency report generator, GitHub PR brief fetcher, maintainer comment generator, bounty claim safety gate, agent disclosure policy, CI classification request, review readiness report, dry-run GitHub Action scaffold, and five-minute PR gate workflow.
 
 Launch price target: `$99`.
 
 Checkout coming after Polar product setup.
+
+## Why This Is Different
+
+Most AI code review tools try to judge the patch. Agent PR Gatekeeper judges whether the patch has enough evidence to deserve human review. That makes it useful before maintainers burn attention.
 
 ## Responsible Use
 
