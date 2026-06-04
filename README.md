@@ -41,9 +41,11 @@ Gatekeeper response:
 
 The full kit includes a no-dependency report generator, GitHub PR brief fetcher, maintainer comment generator, bounty claim safety gate, agent disclosure policy, CI classification request, review readiness report, dry-run GitHub Action scaffold, and five-minute PR gate workflow.
 
-Launch price target: `$99`.
+Launch price: `$99`.
 
-Checkout coming after Polar product setup.
+Full kit checkout: https://buy.polar.sh/polar_cl_tXz7ggyNV5Xfbj9yOBQfgm5S01ytadHbt6HUP213LgG
+
+Buy the full kit if you want a repeatable intake layer instead of one-off comment wording. The paid download turns a PR URL or brief into a review-readiness report, evidence-gap list, maintainer-safe comment, and dry-run GitHub Actions artifact that your repo can adopt without letting automation comment publicly by default.
 
 ## Why This Is Different
 
