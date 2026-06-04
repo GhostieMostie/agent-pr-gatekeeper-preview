@@ -1,0 +1,20 @@
+{
+  "pr": {
+    "title": "fix: handle stale cache rows during import",
+    "url": "https://github.com/example/project/pull/123",
+    "summary": "Updates import cleanup and adds a regression test.",
+    "linkedIssue": "https://github.com/example/project/issues/77"
+  },
+  "ci": {
+    "status": "failed",
+    "classification": "auth-only"
+  },
+  "evidence": {
+    "tests": ["npm test -- import-cache"],
+    "reproduction": "Issue includes before/after fixture."
+  },
+  "agent": {
+    "aiAssisted": true,
+    "humanValidated": true
+  }
+}
